@@ -1,0 +1,1 @@
+SELECT id_turma from universidade.cursa WHERE mat_estudante='E101';

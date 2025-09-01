@@ -1,0 +1,1 @@
+SELECT cpf FROM universidade.professor WHERE departamento='DMA';
