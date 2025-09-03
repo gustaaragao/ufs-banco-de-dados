@@ -1,0 +1,2 @@
+-- 2.8. Listar somente os sobrenomes de todas os usuários que são do sexo feminino em ordem alfabética (obs: sem repetir os sobrenomes).
+SELECT DISTINCT sobrenome FROM hospital.usuario WHERE sexo='F' ORDER BY sobrenome;
